@@ -1,0 +1,7 @@
+scripts/curl-request/
+scripts/sh-script-batch/getProducts.command
+scripts/sh-script-batch/failed_MD5_check_list.txt
+scripts/sh-script-batch/getProducts.command
+scripts/sh-script-batch/logs
+scripts/sh-script-batch/PRODUCT
+.DS_Store
