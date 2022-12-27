@@ -1,5 +1,7 @@
 scripts/py/__pycache__
 scripts/py/sentinelconfig.py
+scripts/py/request_output/
+
 scripts/sh-script-batch/getProducts.command
 scripts/sh-script-batch/failed_MD5_check_list.txt
 scripts/sh-script-batch/getProducts.command
