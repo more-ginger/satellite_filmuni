@@ -7,6 +7,24 @@ from shapely.geometry import MultiLineString, MultiPolygon, Polygon, shape
 import matplotlib.pyplot as plt
 from matplotlib.patches import Polygon as plt_polygon
 
+from sentinelhub import (
+    CRS,
+    BBox,
+    BBoxSplitter,
+    CustomGridSplitter,
+    DataCollection,
+    read_data,
+    CRS,
+    BBox,
+    DataCollection,
+    DownloadRequest,
+    MimeType,
+    MosaickingOrder,
+    SentinelHubDownloadClient,
+    SentinelHubRequest,
+    bbox_to_dimensions,
+)
+
 # Available here: https://github.com/matplotlib/basemap
 from mpl_toolkits.basemap import Basemap
 

@@ -2,6 +2,7 @@ scripts/data-extraction/__pycache__
 scripts/data-extraction/sentinelconfig.py
 scripts/data-extraction/request_output/
 scripts/data-extraction/request_output_moisture/
+scripts/data-manipulation/band_data/
 
 scripts/sh-script-batch/
 qgis/**.qgz
