@@ -3,6 +3,7 @@ scripts/data-extraction/sentinelconfig.py
 scripts/data-extraction/request_output/
 scripts/data-extraction/request_output_moisture/
 scripts/data-manipulation/band_data/
+scripts/data-manipulation/single_band/
 
 scripts/sh-script-batch/
 qgis/**.qgz
